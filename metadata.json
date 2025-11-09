@@ -1,0 +1,5 @@
+{
+  "name": "OlympiX",
+  "description": "An AI-powered coach that analyzes your form in various sports from images or videos, provides feedback, and answers your training questions through a chatbot.",
+  "requestFramePermissions": []
+}
